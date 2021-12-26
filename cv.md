@@ -17,6 +17,7 @@ _Junior Frontend Developer_
 ...
 * 2016-2019
 * Economic and law department. Lawyer; International University (MITSO)
+* IT academy. Frontend development. Javascript. Basic level ( 2019. Uncompleted)
 -----------------
 **Profile**
 * Skilled and motivated Junior Frontend developer. Seeking a front-end developer position with company which will require me to utilize my skills, abilities and initial experience in the IT-field to ensure the company's success.
