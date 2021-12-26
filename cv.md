@@ -46,7 +46,6 @@ top: bbox.top+window.pageYOffset
 * Team player with good communication skills
 ----------------------------------
 **Languages**:
-
 * English (B2)
 * Deutsch (А2)
 * Russian (native speaker)
