@@ -32,8 +32,7 @@ _Junior Frontend Developer_
 * GIT
 ----------------------------------
 **Code example:**
-```
-function getElementPos(elem) {
+```function getElementPos(elem) {
 var bbox=elem.getBoundingClientRect();
 return {
 left: bbox.left+window.pageXOffset,
